@@ -1,4 +1,6 @@
 # dirscan-toolkit
+![ci-py](https://github.com/sec-toolkit/dirscan-toolkit/workflows/ci-py/badge.svg)
+
 Fast async directory/file brute-scanner with smart 404-filter, SARIF/JSON export and CI-ready reporting.
 
 ## 合法声明
