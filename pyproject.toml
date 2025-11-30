@@ -14,8 +14,9 @@ dependencies = [
 ]
 [project.scripts]
 dirscan = "dirscan.cli:app"
-
-[dependency-groups]
+[tool.setuptools.package-data]
+"*" = ["*.txt"]
+[project.optional-dependencies]
 dev = [
     "pytest>=9.0.1",
     "pytest-cov>=7.0.0",
