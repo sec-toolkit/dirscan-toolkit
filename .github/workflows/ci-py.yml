@@ -11,5 +11,14 @@ jobs:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v4
       with: { python-version: '3.11' }
-    - run: pip install -r requirements.txt
-    - run: pytest
+    - run: pip install -e .[dev]
+    - run: pytest --cov=src --cov-fail-under=60
+    - name: Run dirscan demo
+      run: |
+        mkdir -p /tmp/demo
+        echo hi > /tmp/demo/secret.txt
+        python -m dirscan /tmp/demo -o out.json
+    - uses: actions/upload-artifact@v4
+      with:
+        name: sarif
+        path: out.sarif

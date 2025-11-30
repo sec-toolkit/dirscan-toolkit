@@ -1,0 +1,5506 @@
+[
+  {
+    "url": "http://127.0.0.1:81/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:81/admin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/admin.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/admin/login",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/admin/login.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/administrator",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/administrator.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/api",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/api/v1",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/api/v2",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/api/users",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/api/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/app",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/app/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/app/config/config.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup.tar.gz",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup/db.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backup.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bak",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bak.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bak.rar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/config.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/configuration.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/conf",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/conf/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/conf/config.yml",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/conf/config.yaml",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/conf/config.json",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/css",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/css/style.css",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/data",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/data.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/database",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/database.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/db",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/db.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dump",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dump.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dev",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/development",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/development.env",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.env",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.env.local",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.env.bak",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.env.backup",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/email",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/email/list",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ftp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ftp/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ghost",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/git",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.git",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.git/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.git/HEAD",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.git/index",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.git/logs/HEAD",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/github",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gitlab",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hack",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hacker",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/home",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/home.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/htaccess",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/.htaccess",
+    "status": 403
+  },
+  {
+    "url": "http://127.0.0.1:81/.htaccess.bak",
+    "status": 403
+  },
+  {
+    "url": "http://127.0.0.1:81/.htpasswd",
+    "status": 403
+  },
+  {
+    "url": "http://127.0.0.1:81/html",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/image",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/images",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/img",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/import",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/include",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/includes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/index",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/index.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/index.html",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:81/info",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/info.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/install",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/install.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/Installation",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/Installation/install",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/js",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/js/app.js",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/javascript",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/json",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jsp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jsp/login.jsp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lib",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/library",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/libraries",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/log",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/logs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/login",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/login.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/logout",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/logout.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mail/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/manage",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/manage/index",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/manager",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/manager.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/media",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/member",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/members",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mobile",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mob",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitoring",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mysql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mysql/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mysql/db",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/new",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/news",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/old",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/old.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/owa",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/owa/auth/logon.aspx",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpinfo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpinfo.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpmyadmin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpMyAdmin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpMyAdmin/index.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpmyadmin/index.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpMyAdmin-5.2.0",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpMyAdmin-5.1.3",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phpPgAdmin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phppgadmin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/private",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/public",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/robots.txt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rss",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rss.xml",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sftp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sftp/config",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shop",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/site",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sql.sql",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/src",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/source",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/static",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/statistics",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stats",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/storage",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/temp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tmp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/test",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/test.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/testing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tests",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/theme",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/themes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tmp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/transfer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/txt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/upload",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/uploads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/user",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/users",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/usr",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/var",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vendor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vendors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/video",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/videos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/web",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/webadmin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/webmaster",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wordpress",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-admin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-admin/install.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-admin/admin-ajax.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-admin/upload.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-content",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-content/uploads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-content/themes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-content/plugins",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wp-includes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ws",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wsdl",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/www",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/www.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wwwroot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wwwroot.zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/xml",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/xmlrpc.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/xls",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/xlsx",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/zip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/zips",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/zoom",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/7z",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/about",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/about-us",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/aboutus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/contact",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/contact-us",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/contactus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/careers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jobs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/services",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/service",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/solutions",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/solution",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/products",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/product",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pricing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/privacy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/privacy-policy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terms",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terms-of-service",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/help",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/faq",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/faqs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/support",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/manual",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/docs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doc",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/documentation",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wiki",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/knowledge-base",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/forum",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/forums",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/community",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/feedback",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/suggestions",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/broadcast",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/announcements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/notice",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/notices",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/news",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/newsroom",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/press",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/press-room",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/media",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/press-release",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/press-releases",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/blog",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/blogs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/article",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/articles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/post",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/posts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/archive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/archives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/category",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/categories",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tag",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tags",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/search",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/search.php",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/query",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/find",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gallery",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/album",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/albums",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/photo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/photos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/picture",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pictures",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/image",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/images",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/img",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/imgs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/file",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/files",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/download",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/downloads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/upload",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/uploads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attachment",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attachments",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attach",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/static",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/assets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/resources",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/resource",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/media",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/video",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/videos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/music",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/musics",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/audio",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/audios",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/podcast",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/podcasts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/clip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/clips",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/movie",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/movies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/film",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/films",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tv",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/show",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shows",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/series",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/season",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/episode",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/episodes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/live",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stream",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streams",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/camera",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cam",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/webcam",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/webcams",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/snapshot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/snapshots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/screen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/screenshot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/screenshots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/desktop",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wallpaper",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wallpapers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/icon",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/icons",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/logo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/logos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/banner",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/banners",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ad",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/advertisement",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/advertisements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/affiliate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/affiliates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/partner",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/partners",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sponsor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sponsors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/promo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/promotion",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/promotions",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coupon",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coupons",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/voucher",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vouchers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gift",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gifts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/giftcard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/giftcards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/card",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/credit",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/credits",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/point",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/points",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/reward",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rewards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bonus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bonuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/discount",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/discounts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/special",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/specials",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/deal",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/deals",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/offer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/offers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sale",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sales",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shop",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/store",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stores",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/market",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/marketplace",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/merchant",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/merchants",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/purchase",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/purchases",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/order",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/orders",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cart",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/carts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/basket",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/baskets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/checkout",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pay",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/payment",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/payments",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bill",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bills",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/invoice",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/invoices",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/receipt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/receipts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/price",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/prices",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pricing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quote",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quotes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/estimate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/estimates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/subscription",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/subscriptions",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/membership",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/memberships",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plan",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/package",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/packages",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bundle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bundles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/addon",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/addons",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/extra",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/extras",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/option",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/options",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/feature",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/features",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/function",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/functions",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tool",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tools",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/utility",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/utilities",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/helper",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/helpers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plugin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plugins",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/module",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/modules",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/component",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/components",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/element",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/elements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/widget",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/widgets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gadget",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gadgets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/device",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/devices",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/machine",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/machines",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/robot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/robots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehicle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehicles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/car",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/auto",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/autos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/automobile",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/automobiles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bike",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bikes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bicycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bicycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/truck",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trucks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/train",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trains",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rails",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/planes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/aircraft",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flight",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flights",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airline",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airlines",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airport",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/port",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dock",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/docks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ship",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ships",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boat",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boats",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/yacht",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/yachts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ferry",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ferries",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cruise",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cruises",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/submarine",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/submarines",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tank",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tanks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/armor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/armour",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/weapon",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/weapons",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gun",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/guns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rifle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rifles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pistol",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pistols",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shotgun",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shotguns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/machinegun",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/machineguns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cannon",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cannons",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/missile",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/missiles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rocket",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rockets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bomb",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bombs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grenade",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grenades",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mine",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mines",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/explosive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/explosives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/firearm",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/firearms",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ammo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ammunition",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bullet",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bullets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shell",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shells",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/war",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/battle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/battles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/fight",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/fights",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/combat",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/combats",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attack",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attacks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/raid",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/raids",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/defense",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/defenses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/defence",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/defences",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/security",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/securities",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/protection",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/protections",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/safe",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/safes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/safety",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/safeties",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/guard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/guards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/guardian",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/guardians",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/soldier",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/soldiers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/army",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/armies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/navy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/navies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airforce",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airforces",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/marine",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/marines",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coastguard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coastguards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/police",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/policeman",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/policemen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cop",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cops",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/detective",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/detectives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/investigator",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/investigators",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/agent",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/agents",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/spy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/spies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/secret",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/secrets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/intelligence",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/intelligences",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/surveillance",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/surveillances",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitoring",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/camera",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cameras",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cctv",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cctvs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/record",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/records",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/recording",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/recordings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/video",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/videos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/audio",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/audios",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mic",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mics",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microphone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microphones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/speaker",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/speakers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/headphone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/headphones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/earphone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/earphones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/headset",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/headsets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/radio",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/radios",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/walkie",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/walkies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/walkietalkie",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/walkietalkies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/intercom",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/intercoms",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/phones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/telephone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/telephones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mobile",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mobiles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cell",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cells",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cellular",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/smartphone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/smartphones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/iphone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/iphones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/android",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/androids",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sim",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sims",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/simcard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/simcards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/chip",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/chips",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cpu",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cpus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/processor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/processors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microprocessor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microprocessors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/board",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motherboard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motherboards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/card",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/graphic",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/graphics",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gpu",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gpus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/display",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/displays",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/screen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/screens",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monitors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terminal",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terminals",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/console",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/consoles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/keyboard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/keyboards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/keypad",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/keypads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mouse",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mouses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mice",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trackball",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trackballs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/touchpad",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/touchpads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/touchscreen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/touchscreens",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/joystick",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/joysticks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gamepad",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gamepads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/controller",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/controllers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/remote",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/remotes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/remotecontrol",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/remotecontrols",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pointer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pointers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pens",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stylus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/styluses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/scanner",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/scanners",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/printer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/printers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/print",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/prints",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/printing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ink",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/inks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/toner",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/toners",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/paper",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/papers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/usb",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/usbs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flash",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flashdrive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flashdrives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harddrive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harddrives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hdd",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hdds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ssd",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ssds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/disk",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/disks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/disc",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/discs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cd",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dvd",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dvds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bluray",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/blurays",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rom",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/roms",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ram",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rams",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/memory",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/memories",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cache",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/caches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buffer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buffers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/register",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/registers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bridge",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bridges",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/router",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/routers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/switch",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/switches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hub",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hubs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/modem",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/modems",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/network",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/networks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/net",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/nets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/internet",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/internets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/web",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/webs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/www",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wan",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lan",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/man",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pan",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vpn",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vpns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/proxy",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/proxies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/firewall",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/firewalls",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gateway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gateways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/server",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/servers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/serve",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/serves",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/service",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/services",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/client",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/clients",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/peer",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/peers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/node",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/nodes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/host",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/hosts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/domain",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/domains",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dnss",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dhcp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dhcps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ftp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ftps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tftp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tftps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sftp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sftps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ssh",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sshs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/telnet",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/telnets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/smtp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/smtps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pop3",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pop3s",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/imap",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/imaps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/http",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/https",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ssl",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ssls",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tls",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tlss",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cert",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/certs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/certificate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/certificates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ca",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cas",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pki",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pkis",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ldap",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ldaps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/snmp",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/snmps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mqtt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mqtts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coap",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coaps",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/websocket",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/websockets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/socket",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sockets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/port",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porter",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porters",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porterhouse",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porters",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porterhouses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portable",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portables",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portability",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portabilities",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portage",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portages",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portrait",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portraits",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portfolio",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portfolios",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/import",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/imports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/export",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/exports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/transport",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/transports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/transportation",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/transportations",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/port",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harbor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harbors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harbour",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/harbours",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dock",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/docks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wharf",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wharfs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wharfage",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wharfages",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quay",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quays",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/berth",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/berths",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/anchor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/anchors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/anchorage",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/anchorages",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/moor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/moors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mooring",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/moorings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dockyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dockyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shipyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shipyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boatyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boatyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/marina",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/marinas",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/seaport",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/seaports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airport",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flight",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flights",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/fly",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flying",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/aircraft",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/aircrafts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airplane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/airplanes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/planes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/planes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/planes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jet",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jetplane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jetplanes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/prop",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/props",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/propeller",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/propellers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rotor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rotors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rotary",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rotaries",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/heli",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/helis",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/helicopter",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/helicopters",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/chopper",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/choppers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/copter",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/copters",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/auto",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/autos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/automobile",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/automobiles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/car",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehicle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehicles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehicular",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vehiculars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/truck",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trucks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lorry",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lorries",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/van",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/vans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/minivan",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/minivans",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coach",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coaches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/taxi",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/taxis",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cab",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cabs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rickshaw",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rickshaws",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorcycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorbike",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorbikes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bike",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bikes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bicycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bicycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cycling",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tricycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tricycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quadricycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/quadriccles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/unicycle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/unicycles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/velocipede",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/velocipedes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/road",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/roads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/street",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/avenue",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/avenues",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulevard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulevards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/driveway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/driveways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lanes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/alley",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/alleys",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/path",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/paths",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pavement",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pavements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sidewalk",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sidewalks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pedestrian",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pedestrians",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/crossing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/crossings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/crosswalk",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/crosswalks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bridge",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bridges",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/overpass",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/overpasses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/underpass",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/underpasses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tunnel",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tunnels",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/toll",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tolls",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tollgate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tollgates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/barrier",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/barriers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gateway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gateways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/port",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ports",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portal",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/portals",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/door",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doorway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doorways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/entrance",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/entrances",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/entry",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/entries",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/exit",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/exits",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/way",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pathway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pathways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/routeway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/routeways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/roadway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/roadways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streetway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streetways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/highway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/highways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/freeway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/freeways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/motorways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/expressway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/expressways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/thruway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/thruways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/parkway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/parkways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/turnpike",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/turnpikes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trails",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/track",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tracks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rails",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/railway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/railways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/railroad",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/railroads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/subway",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/subways",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/metro",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/metros",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/underground",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/undergrounds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tube",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tubes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monorail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/monorails",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tram",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trams",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streetcar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streetcars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trolley",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trolleys",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trolleybus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trolleybuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/buses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shuttle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shuttles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coach",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/coaches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/minibus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/minibuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microbus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/microbuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/autobus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/autobuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/omnibus",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/omnibuses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doubledecker",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doubledeckers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/double",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/doubles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/decker",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/deckers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/upper",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/uppers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lower",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lowers",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/deck",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/decks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/level",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/levels",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/floor",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/floors",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/storey",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/storeys",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/story",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stories",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ground",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grounds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/basement",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/basements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cellar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cellars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attic",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/attics",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/loft",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lofts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/penthouse",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/penthouses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flat",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/flats",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/apartment",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/apartments",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/condo",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/condos",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/condominium",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/condominiums",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/residence",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/residences",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/residential",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/residentials",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/home",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/homes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/house",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/houses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/housing",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/housings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dwelling",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dwellings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/abode",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/abodes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/habitat",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/habitats",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/habitation",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/habitations",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/inhabit",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/inhabits",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/inhabitant",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/inhabitants",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tenant",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tenants",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/landlord",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/landlords",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/owner",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/owners",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/property",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/properties",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/estate",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/estates",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/real",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/reals",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/realty",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/realties",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/land",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lands",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plot",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plots",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/parcel",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/parcels",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tract",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tracts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/field",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/fields",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/meadow",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/meadows",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pasture",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pastures",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/prairie",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/prairies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/steppe",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/steppes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pampa",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pampas",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/savanna",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/savannas",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/savannah",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/savannahs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tundra",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tundras",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/desert",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/deserts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dune",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dunes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/oasis",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/oases",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/forest",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/forests",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wood",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/woods",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/woodland",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/woodlands",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jungle",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/jungles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rainforest",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rainforests",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grove",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/groves",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/thicket",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/thickets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/copse",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/copses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/brush",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/brushes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bramble",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/brambles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bush",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bushes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shrub",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/shrubs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tree",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trees",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plant",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plants",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/planting",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/plantings",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/garden",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gardens",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/yard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/yards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/backyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/frontyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/frontyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/courtyard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/courtyards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/patio",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/patios",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terrace",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/terraces",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/balcony",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/balconies",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porch",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/porches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/veranda",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/verandas",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/verandah",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/verandahs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lawn",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lawns",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grass",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grasses",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ground",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/grounds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/soil",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/soils",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/earth",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/earths",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dirt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/dirts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mud",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/muds",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/clay",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/clays",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sand",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sands",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gravel",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/gravels",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/stones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rock",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rocks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulder",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulders",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pebble",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pebbles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cobble",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cobbles",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cobblestone",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cobblestones",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/brick",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bricks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/block",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/blocks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/concrete",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/concretes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cement",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/cements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mortar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/mortars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/asphalt",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/asphalts",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tar",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tars",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pitch",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pitches",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/resin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/resins",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rosin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rosins",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/wax",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/waxes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/paraffin",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/paraffins",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bitumen",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/bitumens",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tarmac",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tarmacs",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/macadam",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/macadams",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pavement",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/pavements",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sidewalk",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/sidewalks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/road",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/roads",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/street",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/streets",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/avenue",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/avenues",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulevard",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/boulevards",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drive",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/drives",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lane",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/lanes",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/alley",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/alleys",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/path",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/paths",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trail",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/trails",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/track",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/tracks",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/rut",
+    "status": 404
+  },
+  {
+    "url": "http://127.0.0.1:81/ruts",
+    "status": 404
+  }
+]

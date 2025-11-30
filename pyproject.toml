@@ -1,0 +1,22 @@
+[project]
+name = "dirscan-toolkit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx[http2]>=0.28.1",
+    "loguru>=0.7.3",
+    "pytest>=9.0.1",
+    "sarif-om>=1.0.4",
+    "typer>=0.20.0",
+    "xxhash>=3.6.0",
+]
+[project.scripts]
+dirscan = "dirscan.cli:app"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.1",
+    "pytest-cov>=7.0.0",
+]
